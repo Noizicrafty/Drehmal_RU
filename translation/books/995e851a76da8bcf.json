@@ -1,0 +1,574 @@
+{
+  "id": "995e851a76da8bcf",
+  "title": "",
+  "source_key": "[{\"text\":\"OUTOFMAPLOCATIONS\"},{\"text\":\"TheTerminus\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s26475.50138.00-104.5000\"}},{\"text\":\"\\\"CommandBlocks\\\"\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s26115.50185.00-323.50-90.000.00\"}},{\"text\":\"BuildZone\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s27357.5083.50-441.50-2700\"}},{\"text\":\"TOWNS\"},{\"text\":\"Naharja\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp@s263.5075.00-783.50-180-25.00\"}},{\"text\":\"Athrah\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-2727.5073.50-1775.502700\"}},{\"text\":\"Drabyel\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s530.5070.001848.5090.000.00\"}},{\"text\":\"Dusps\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s2132.00134.00-842.04500\"}},{\"text\":\"Ebonrun\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-2964.50137.50-203.50900\"}},{\"text\":\"Firteid\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s3912.50102.503491.50900\"}},{\"text\":\"FortNimahj\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-1714.50160.501871.50-900\"}},{\"text\":\"Gozak\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s2276.5055.502463.500.000.00\"}}][{\"text\":\"\"},{\"text\":\"Highfall\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s5941.5079.50-1115.50900\"}},{\"text\":\"Mohta\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-21.5090.505273.50-2700\"}},{\"text\":\"Mossfield\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s4129.2577.001726.502700\"}},{\"text\":\"Okeke\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-1561.5068.50-473.5000\"}},{\"text\":\"Rhaveloth\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-2875.5077.005227.502700\"}},{\"text\":\"Sahd\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s4799.5075.505708.50-90.000.00\"}},{\"text\":\"TharxaxCity\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-2149.5069.503672.502700\"}},{\"text\":\"TERMINUSTOWERS\"},{\"text\":\"Justuse:/functionterminus:teleport_to_tower/[TOWER]_teleport\"},{\"text\":\"\"}][{\"text\":\"\"},{\"text\":\"LEGENDARYLOCATIONS\"},{\"text\":\"AncehlCastle\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s1511.50155.00-1976.5000\"}},{\"text\":\"AcademyofIhted\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp@s-962.50130.00-956.503600\"}},{\"text\":\"AvsohmicVault\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-3620.5082.00-1199.5090-22.5\"}},{\"text\":\"AuguralTangle\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp1047.5041.001219.50\"}},{\"text\":\"Beast'sDen\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp985.5069.002734.50\"}},{\"text\":\"Bernice'sHouse\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp-441.5089.00506.50\"}},{\"text\":\"CaerAdacia\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp-1422.5047.00406.50\"}},{\"text\":\"CastleScarstone\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp2477.50186.502120.50\"}},{\"text\":\"CrystalDigSite\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp-1829.5094.00-3786.50\"}},{\"text\":\"EbonfireMines\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp-3621.5082.00-1199.50\"}},{\"text\":\"GraveofFrost\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s2291.5081.00-2958.50900\"}},{\"text\":\"HeartoftheStorm\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp@s458.50140.50427.50-0.000\"}},{\"text\":\"HovadchearCrater\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp3219.5085.001728.50\"}}][{\"text\":\"\"},{\"text\":\"ICSArbiter\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-477.5094.00-1925.501800\"}},{\"text\":\"PrimalSapling\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp-1197.5064.00-341.50\"}},{\"text\":\"ShatterhornGulch\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp4684.5092.00-842.50\"}},{\"text\":\"TeiruunMonastery\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp5618.00171.002983.50\"}},{\"text\":\"TheInsohmicLibrary\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp4538.5098.001587.50\"}},{\"text\":\"TheLostCavern\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp1683.5019.00-2628.50\"}},{\"text\":\"TombofAnyr\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp-3412.50140.002233.50\"}},{\"text\":\"TowerofInsight\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp4112.50122.00-1547.50\"}},{\"text\":\"MYTHICALLOCATIONS\",\"color\":\"black\"},{\"text\":\"TheBurntPalace\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-3917.5042.005981.5090-20\"}},{\"text\":\"TheEpicenter\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s1030.5060.003827.5000\"}},{\"text\":\"MoonlightSanctum\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-617.5066.004968.501800\"}},{\"text\":\"Yriel'sSanctum\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrrunexecuteinminecraft:lodahrruntp@s1983.3747.002030.37-262.6190.00\"}}][{\"text\":\"\"},{\"text\":\"SYZYGYTRIALS\",\"color\":\"black\"},{\"text\":\"AbyssalRise\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp-197.5017.001169.50\"}},{\"text\":\"MysticGallery\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp-760.5098.00-789.50\"}},{\"text\":\"Brightwyrm'sCaldera\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp1148.50103.00-1241.50\"}},{\"text\":\"HypogeanLabyrinth\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp479.50162.00-125.50\"}},{\"text\":\"Star-RiseOrrery\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp1125.5082.00957.50\"}},{\"text\":\"TempleofLife\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp-461.5072.00-221.50\"}},{\"text\":\"STORYLOCATIONS\",\"color\":\"black\"},{\"text\":\"SpawnTomb\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s778.502.00559.507200\"}},{\"text\":\"Av'Sal\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-246.50105.001645.50-900\"}},{\"text\":\"Sal'Mevir\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s2250.5082.00997.502700\"}},{\"text\":\"ExodusCitadel\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s-2588.5070.002291.50-900\"}},{\"text\":\"TheAphelion\",\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:spaceruntp@s-204.50130.00189.50-900\"}}][{\"text\":\"WarpRingInstallation\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp@s-920.50125.50-240.5013869\"}},{\"text\":\"InscriptionComplex\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp@s-993.0109.001065.0-900\"}},{\"text\":\"ResupplyDepot\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp@s1233.5224.00305.518090.00\"}},{\"text\":\"Numencore\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:lodahrruntp@s515.5038.00-831.5090.000\"}},{\"text\":\"Mt.YavhlixDoor\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s1834.0036.00-4270.50-180.00-41.00\"}},{\"text\":\"Mt.Yavhlix\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s26907.5061.00-218.5000\"}},{\"text\":\"TheNothing\",\"color\":\"dark_purple\"},{\"text\":\"AzimuthLabs\",\"color\":\"green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s3154124.00-953.521733\"}},{\"text\":\"TheCourt\",\"color\":\"dark_purple\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:overworldruntp@s27295.575.00-11900\"}},{\"text\":\"MaddenedPath\",\"color\":\"dark_purple\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:true_endruntp@s1000558.0010238.501800\"}},{\"text\":\"CopeHarder\",\"color\":\"dark_gray\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/executeinminecraft:true_endruntp@s778.502.00559.507200\"}}]",
+  "pages": [
+    [
+      {
+        "text": "ВНЕ КАРТЫ"
+      },
+      {
+        "text": "\nThe Terminus     ",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 26475.50 138.00 -104.50 0 0"
+        }
+      },
+      {
+        "text": "\n«Командные блоки»",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 26115.50 185.00 -323.50 -90.00 0.00"
+        }
+      },
+      {
+        "text": "\nЗона строительства\n\n",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 27357.50 83.50 -441.50 -270 0"
+        }
+      },
+      {
+        "text": "ГОРОДА\n"
+      },
+      {
+        "text": "Naharja",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp @s 263.50 75.00 -783.50 -180 -25.00"
+        }
+      },
+      {
+        "text": "\nAthrah",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -2727.50 73.50 -1775.50 270 0"
+        }
+      },
+      {
+        "text": "\nDrabyel",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 530.50 70.00 1848.50 90.00 0.00"
+        }
+      },
+      {
+        "text": "\nDusps",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 2132.00 134.00 -842.0 450 0"
+        }
+      },
+      {
+        "text": "\nEbonrun",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -2964.50 137.50 -203.50 90 0"
+        }
+      },
+      {
+        "text": "\nFirteid",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 3912.50 102.50 3491.50 90 0"
+        }
+      },
+      {
+        "text": "\nFort Nimahj",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -1714.50 160.50 1871.50 -90 0"
+        }
+      },
+      {
+        "text": "\nGozak",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 2276.50 55.50 2463.50 0.00 0.00"
+        }
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "Highfall",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 5941.50 79.50 -1115.50 90 0"
+        }
+      },
+      {
+        "text": "\nMohta",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -21.50 90.50 5273.50 -270 0"
+        }
+      },
+      {
+        "text": "\nMossfield",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 4129.25 77.00 1726.50 270 0"
+        }
+      },
+      {
+        "text": "\nOkeke",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -1561.50 68.50 -473.50 0 0"
+        }
+      },
+      {
+        "text": "\nRhaveloth",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -2875.50 77.00 5227.50 270 0"
+        }
+      },
+      {
+        "text": "\nSahd",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 4799.50 75.50 5708.50 -90.00 0.00"
+        }
+      },
+      {
+        "text": "\nTharxax City",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -2149.50 69.50 3672.50 270 0"
+        }
+      },
+      {
+        "text": "\n\nБАШНИ Terminus"
+      },
+      {
+        "text": "\nКоманда:\n/function terminus: teleport_to_tower/ [TOWER]_teleport"
+      },
+      {
+        "text": "\n\n"
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "ЛЕГЕНДАРНЫЕ МЕСТА"
+      },
+      {
+        "text": "\nAncehl Castle",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 1511.50 155.00 -1976.50 0 0"
+        }
+      },
+      {
+        "text": "\nAcademy of Ihted",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp @s -962.50 130.00 -956.50 360 0"
+        }
+      },
+      {
+        "text": "\nAvsohmic Vault",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -3620.50 82.00 -1199.50 90 -22.5"
+        }
+      },
+      {
+        "text": "\nAugural Tangle",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp 1047.50 41.00 1219.50"
+        }
+      },
+      {
+        "text": "\nBeast's Den",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp 985.50 69.00 2734.50"
+        }
+      },
+      {
+        "text": "\nBernice's House",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp -441.50 89.00 506.50"
+        }
+      },
+      {
+        "text": "\nCaer Adacia",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp -1422.50 47.00 406.50"
+        }
+      },
+      {
+        "text": "\nCastle Scarstone",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp 2477.50 186.50 2120.50"
+        }
+      },
+      {
+        "text": "\nCrystal Dig Site",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp -1829.50 94.00 -3786.50"
+        }
+      },
+      {
+        "text": "\nEbonfire Mines",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp -3621.50 82.00 -1199.50"
+        }
+      },
+      {
+        "text": "\nGrave of Frost",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 2291.50 81.00 -2958.50 90 0"
+        }
+      },
+      {
+        "text": "\nHeart of the Storm",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp @s 458.50 140.50 427.50 -0.00 0"
+        }
+      },
+      {
+        "text": "\nHovadchear Crater",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp 3219.50 85.00 1728.50"
+        }
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "ICS Arbiter",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -477.50 94.00 -1925.50 180 0"
+        }
+      },
+      {
+        "text": "\nPrimal Sapling",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp -1197.50 64.00 -341.50"
+        }
+      },
+      {
+        "text": "\nShatterhorn Gulch",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp 4684.50 92.00 -842.50"
+        }
+      },
+      {
+        "text": "\nTeiruun Monastery",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp 5618.00 171.00 2983.50"
+        }
+      },
+      {
+        "text": "\nThe Insohmic Library",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp 4538.50 98.00 1587.50"
+        }
+      },
+      {
+        "text": "\nThe Lost Cavern",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp 1683.50 19.00 -2628.50"
+        }
+      },
+      {
+        "text": "\nTomb of Anyr",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp -3412.50 140.00 2233.50"
+        }
+      },
+      {
+        "text": "\nTower of Insight",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp 4112.50 122.00 -1547.50"
+        }
+      },
+      {
+        "text": "\n\nМИФИЧЕСКИЕ МЕСТА",
+        "color": "black"
+      },
+      {
+        "text": "\nThe Burnt Palace",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -3917.50 42.00 5981.50 90 -20"
+        }
+      },
+      {
+        "text": "\nThe Epicenter",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 1030.50 60.00 3827.50 0 0"
+        }
+      },
+      {
+        "text": "\nMoonlight Sanctum",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -617.50 66.00 4968.50 180 0"
+        }
+      },
+      {
+        "text": "\nYriel's Sanctum",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run execute in minecraft:lodahr run tp @s 1983.37 47.00 2030.37 -262.61 90.00"
+        }
+      }
+    ],
+    [
+      {
+        "text": ""
+      },
+      {
+        "text": "ИСПЫТАНИЯ Syzygy",
+        "color": "black"
+      },
+      {
+        "text": "\nAbyssal Rise",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp -197.50 17.00 1169.50"
+        }
+      },
+      {
+        "text": "\nMystic Gallery",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp -760.50 98.00 -789.50"
+        }
+      },
+      {
+        "text": "\nBrightwyrm's Caldera",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp 1148.50 103.00 -1241.50"
+        }
+      },
+      {
+        "text": "\nHypogean Labyrinth",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp 479.50 162.00 -125.50"
+        }
+      },
+      {
+        "text": "\nStar-Rise Orrery",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp 1125.50 82.00 957.50"
+        }
+      },
+      {
+        "text": "\nTemple of Life",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp -461.50 72.00 -221.50"
+        }
+      },
+      {
+        "text": "\n\nСЮЖЕТНЫЕ МЕСТА",
+        "color": "black"
+      },
+      {
+        "text": "\nSpawn Tomb",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 778.50 2.00 559.50 720 0"
+        }
+      },
+      {
+        "text": "\nAv'Sal",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -246.50 105.00 1645.50 -90 0"
+        }
+      },
+      {
+        "text": "\nSal'Mevir",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 2250.50 82.00 997.50 270 0"
+        }
+      },
+      {
+        "text": "\nExodus Citadel",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s -2588.50 70.00 2291.50 -90 0"
+        }
+      },
+      {
+        "text": "\nThe Aphelion",
+        "color": "light_purple",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:space run tp @s -204.50 130.00 189.50 -90 0"
+        }
+      }
+    ],
+    [
+      {
+        "text": "Warp Ring Installation",
+        "color": "gold",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp @s -920.50 125.50 -240.50 138 69"
+        }
+      },
+      {
+        "text": "\nInscription Complex",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp @s -993.0 109.00 1065.0 -90 0"
+        }
+      },
+      {
+        "text": "\nResupply Depot",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp @s 1233.5 224.00 305.5 180 90.00"
+        }
+      },
+      {
+        "text": "\nNumencore",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:lodahr run tp @s 515.50 38.00 -831.50 90.00 0"
+        }
+      },
+      {
+        "text": "\nMt. Yavhlix Door",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 1834.00 36.00 -4270.50 -180.00 -41.00"
+        }
+      },
+      {
+        "text": "\nMt. Yavhlix",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 26907.50 61.00 -218.50 0 0"
+        }
+      },
+      {
+        "text": "\nThe Nothing",
+        "color": "dark_purple"
+      },
+      {
+        "text": "\nAzimuth Labs",
+        "color": "green",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 3154 124.00 -953.5 217 33"
+        }
+      },
+      {
+        "text": "\nThe Court",
+        "color": "dark_purple",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:overworld run tp @s 27295.5 75.00 -119 0 0"
+        }
+      },
+      {
+        "text": "\nMaddened Path",
+        "color": "dark_purple",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:true_end run tp @s 10005 58.00 10238.50 180 0"
+        }
+      },
+      {
+        "text": "\nCope Harder",
+        "color": "dark_gray",
+        "clickEvent": {
+          "action": "run_command",
+          "value": "/execute in minecraft:true_end run tp @s 778.50 2.00 559.50 720 0"
+        }
+      }
+    ]
+  ]
+}

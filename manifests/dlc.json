@@ -1,0 +1,39 @@
+{
+  "format": 1,
+  "edition": "dlc",
+  "world": "Drehmal_Primal_Journey_original.zip",
+  "world_name": "Drehmal_Primal_Journey_RU",
+  "mrpack": "Primal_Journey_3.0.6.mrpack",
+  "resourcepack": "Drehmal_Resource_Pack_2.2.2f.zip",
+  "files": {
+    "Drehmal_Primal_Journey_original.zip": {
+      "size": 4008155382,
+      "sha512": "45cc98a89a850ec87ab696dfa8b07466d9c851ee5324486dcd038822896198df1c9ae5805e019e4936e02be49f26ff2e3f8a56e1c9b1abdad61da23e1893dd7f"
+    },
+    "Primal_Journey_3.0.6.mrpack": {
+      "size": 374524650,
+      "sha512": "de4f6588782ea096729bd1b9172fa392b26e265cbf006ae0cfc3ed8d8be8c1367bd6fc4e08cc14cf930f7f3c8580a0bf88b8e3c66862bfb93ba3936f40e9f31e"
+    },
+    "Drehmal_Resource_Pack_2.2.2f.zip": {
+      "size": 190255507,
+      "sha512": "9705022145f59e494039f747fa61b57d86d1516167e7778a390915e3a5f77b00ec2a31e0cd563579302f5837fa8c39702c8538673233851eb0fdac98e8f37104"
+    }
+  },
+  "payload_sha512": "c7d4a8c4ddf4a9c666958b8a595b4cb0f4073a476f0c9bc709add940324dc39fcbd198a3d003c232507815bf88949208170e3c765c5e546da6077ae169d5a5fa",
+  "ru_pack_sha512": "83e8a3c44a446a81ec85017d421b02da68a290619716600f267d48e9437921acff998c1499e06d70764fc558bc1a3a2139afea499e38f842ec16d5e55f170998",
+  "dependencies": {
+    "fabric-loader": "0.16.10",
+    "minecraft": "1.20.1"
+  },
+  "sources": {
+    "map_base": "https://www.drehmal.net/downloads",
+    "world_base": "https://drive.google.com/file/d/14p5Z7mGCRNh5qkEt4wkOdtlu1rD4G7_Q/view",
+    "resource_pack": "https://www.drehmal.net/_files/archives/a539b0_c4fdf77a5ea3495d80466bd940b832ae.zip",
+    "base_modpack": "https://modrinth.com/modpack/drehmalmc/version/PlB74b6H",
+    "dlc_modpack": "https://modrinth.com/modpack/drehmal-apotheosis-2.2-dlc/version/w7b6mFgs",
+    "dlc_world": "https://drive.google.com/file/d/1ZTlXASPrNA8cbDx46k9o4yXaEZr77aBM/view",
+    "dlc_guide_files": "https://drive.google.com/drive/folders/1KLIzWxiu9YrNrDYrDAqtvorH2-0-Q2-n",
+    "python_runtime": "https://www.python.org/ftp/python/3.13.1/python-3.13.1-embed-amd64.zip"
+  },
+  "translation_origin": "Вычитанный drehmal NEW; добавлены новые сообщения актуального выпуска. Переносятся только тексты, без прогресса и построек пользователя."
+}

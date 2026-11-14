@@ -1,0 +1,6 @@
+{
+ "backup_exact": true,
+ "player_progress_unchanged": true,
+ "second_install_idempotent": true,
+ "wrong_edition_rejected": true
+}

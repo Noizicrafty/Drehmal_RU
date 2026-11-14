@@ -1,0 +1,20 @@
+{
+ "base": {
+  "other_files_unchanged": 759,
+  "dat": 74,
+  "datapacks": 4,
+  "regions_checked": 2406,
+  "changed_chunks": 2874,
+  "changed_regions": 535,
+  "empty_region_files_unchanged": 995
+ },
+ "dlc": {
+  "other_files_unchanged": 767,
+  "dat": 74,
+  "datapacks": 4,
+  "empty_region_files_unchanged": 1010,
+  "regions_checked": 2417,
+  "changed_chunks": 3121,
+  "changed_regions": 569
+ }
+}

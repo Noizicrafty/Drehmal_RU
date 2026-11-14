@@ -1,0 +1,2790 @@
+{
+  "id": "39d1e9c310dbdae8",
+  "title": "Statues V2.9",
+  "source_key": "{\"color\":\"white\",\"extra\":[{\"color\":\"dark_blue\",\"text\":\"StatuesV2.9\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Thisbookallowsyoutoapplybasicsettingstoanarmorstand.Clickingthecolouredlinkswilladjusttheclosestarmorstandwithinthreeblocks.\"}},\"text\":\"Ⓘ\"},{\"color\":\"white\",\"text\":\"\"},{\"bold\":true,\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1200\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Undo\"}},\"text\":\"⤺\"},{\"color\":\"white\",\"text\":\"\"},{\"bold\":true,\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_repeatset1\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Repeat\"}},\"text\":\"⟲\"},{\"color\":\"white\",\"text\":\"\"},{\"bold\":true,\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1201\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Redo\"}},\"text\":\"⤻\"},{\"color\":\"black\",\"text\":\"TableofContents\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"2\"},\"text\":\"Styles\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"7\"},\"text\":\"AutoAlign\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"3\"},\"text\":\"Nudge\"},{\"color\":\"white\",\"text\":\"..\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"7\"},\"text\":\"SwapSlots\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4\"},\"text\":\"Rotation\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"8\"},\"text\":\"Mirror/Flip\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4\"},\"text\":\"Pointing\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"8\"},\"text\":\"Utilities\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"5\"},\"text\":\"Presets\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"9\"},\"text\":\"ItemFrames\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6\"},\"text\":\"PoseAdjust\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"10\"},\"text\":\"Credits\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset999\"},\"text\":\"CheckTarget\"}],\"text\":\"\"}{\"extra\":[{\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"},\"text\":\"«\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_blue\",\"text\":\"StyleSettings\"},{\"color\":\"black\",\"text\":\"ShowBasePlate:\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1\"},\"text\":\"Yes\"},{\"color\":\"black\",\"text\":\"/\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset2\"},\"text\":\"No\"},{\"color\":\"black\",\"text\":\"ShowArms:\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset3\"},\"text\":\"Yes\"},{\"color\":\"black\",\"text\":\"/\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset4\"},\"text\":\"No\"},{\"color\":\"black\",\"text\":\"SmallStand:\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset5\"},\"text\":\"Yes\"},{\"color\":\"black\",\"text\":\"/\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset6\"},\"text\":\"No\"},{\"color\":\"black\",\"text\":\"ApplyGravity:\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset7\"},\"text\":\"Yes\"},{\"color\":\"black\",\"text\":\"/\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset8\"},\"text\":\"No\"},{\"color\":\"black\",\"text\":\"StandVisible:\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset9\"},\"text\":\"Yes\"},{\"color\":\"black\",\"text\":\"/\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset10\"},\"text\":\"No\"},{\"color\":\"black\",\"text\":\"DisplayName:\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset11\"},\"text\":\"Yes\"},{\"color\":\"black\",\"text\":\"/\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset12\"},\"text\":\"No\"}],\"text\":\"\"}{\"extra\":[{\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"},\"text\":\"«\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_blue\",\"text\":\"NudgePosition\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"TurngravityoffbeforenudgingtheY-position.RelativeAlignednudgingmovesthearmorstandrelativetotheplayer'spositionandalignedtotheblockgrid.(X=Left/Right,Z=Away/Towards)RelativeAlignednudgingmovesthearmorstandrelativetotheplayer'sexactposition.(X=Left/Right,Y=Above/Below,Z=Away/Towards)Nudgesarein16thsofablocktoalignwiththepixelsoftheblocktextures.\"}},\"text\":\"Ⓘ\"},{\"color\":\"black\",\"text\":\"X:\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset40\"},\"text\":\"-8\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset101\"},\"text\":\"-3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset102\"},\"text\":\"-1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset103\"},\"text\":\"+1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset104\"},\"text\":\"+3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset43\"},\"text\":\"+8\"},{\"color\":\"black\",\"text\":\"Y:\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset44\"},\"text\":\"-8\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset105\"},\"text\":\"-3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset106\"},\"text\":\"-1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset107\"},\"text\":\"+1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset108\"},\"text\":\"+3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset47\"},\"text\":\"+8\"},{\"color\":\"black\",\"text\":\"Z:\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset48\"},\"text\":\"-8\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset109\"},\"text\":\"-3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset110\"},\"text\":\"-1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset111\"},\"text\":\"+1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset112\"},\"text\":\"+3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset51\"},\"text\":\"+8\"},{\"color\":\"black\",\"text\":\"RelativeAligned\"},{\"color\":\"black\",\"text\":\"X:\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1100\"},\"text\":\"-8\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1101\"},\"text\":\"-3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1102\"},\"text\":\"-1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1103\"},\"text\":\"+1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1104\"},\"text\":\"+3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1105\"},\"text\":\"+8\"},{\"color\":\"black\",\"text\":\"Z:\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1106\"},\"text\":\"-8\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1107\"},\"text\":\"-3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1108\"},\"text\":\"-1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1109\"},\"text\":\"+1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1110\"},\"text\":\"+3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1111\"},\"text\":\"+8\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"RelativeExact\"},{\"color\":\"black\",\"text\":\"X:\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1112\"},\"text\":\"-8\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1113\"},\"text\":\"-3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1114\"},\"text\":\"-1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1115\"},\"text\":\"+1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1116\"},\"text\":\"+3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1117\"},\"text\":\"+8\"},{\"color\":\"black\",\"text\":\"Y:\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1118\"},\"text\":\"-8\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1119\"},\"text\":\"-3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1120\"},\"text\":\"-1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1121\"},\"text\":\"+1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1122\"},\"text\":\"+3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1123\"},\"text\":\"+8\"},{\"color\":\"black\",\"text\":\"Z:\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1124\"},\"text\":\"-8\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1125\"},\"text\":\"-3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1126\"},\"text\":\"-1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1127\"},\"text\":\"+1\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1128\"},\"text\":\"+3\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1129\"},\"text\":\"+8\"},{\"text\":\"\"}],\"text\":\"\"}{\"extra\":[{\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"},\"text\":\"«\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_blue\",\"text\":\"AdjustRotation\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Theanglestep(default15°)isusedforboththestandrotationandtheposeadjustments.TowardandAwayturnthearmorstandtofacetowardorawayfromyou.\"}},\"text\":\"Ⓘ\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset56\"},\"text\":\"<<\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset120\"},\"text\":\"45°\"},{\"color\":\"black\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset121\"},\"text\":\"15°\"},{\"color\":\"black\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset122\"},\"text\":\"5°\"},{\"color\":\"black\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset123\"},\"text\":\"1°\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset57\"},\"text\":\">>\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset124\"},\"text\":\"Toward\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset125\"},\"text\":\"Away\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_blue\",\"text\":\"Pointing\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Pointsselectedappendageatheadorfeet.\"}},\"text\":\"Ⓘ\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"Head:\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1160\"},\"text\":\"Head\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1166\"},\"text\":\"Feet\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"Body:\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1161\"},\"text\":\"Head\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1167\"},\"text\":\"Feet\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"R.Arm:\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1162\"},\"text\":\"Head\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1168\"},\"text\":\"Feet\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"L.Arm:\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1163\"},\"text\":\"Head\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1169\"},\"text\":\"Feet\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"R.Leg:\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1164\"},\"text\":\"Head\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1170\"},\"text\":\"Feet\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"L.Leg:\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1165\"},\"text\":\"Head\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1171\"},\"text\":\"Feet\"}],\"text\":\"\"}{\"extra\":[{\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"},\"text\":\"«\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_blue\",\"text\":\"PosePresets\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"TheDeathposeisforafigurelyingdownandrequiresaseparatearmorstandforthelegs.Randomizedcreatesacompletelyuniquerandomizedcustompose.TheBlockandItempresetsaredesignedtoholdblocksanditemsinlinewiththeworldgrid.\"}},\"text\":\"Ⓘ\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset20\"},\"text\":\"Attention\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset30\"},\"text\":\"Confident\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset21\"},\"text\":\"Walking\"},{\"color\":\"white\",\"text\":\"..\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset31\"},\"text\":\"Salute\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset22\"},\"text\":\"Running\"},{\"color\":\"white\",\"text\":\"..\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset32\"},\"text\":\"Death\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset23\"},\"text\":\"Pointing\"},{\"color\":\"white\",\"text\":\"..\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset33\"},\"text\":\"Facepalm\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset24\"},\"text\":\"Blocking\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset34\"},\"text\":\"Lazing\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset25\"},\"text\":\"Lungeing\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset35\"},\"text\":\"Confused\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset26\"},\"text\":\"Winning\"},{\"color\":\"white\",\"text\":\"..\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset36\"},\"text\":\"Formal\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset27\"},\"text\":\"Sitting\"},{\"color\":\"white\",\"text\":\"..\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset37\"},\"text\":\"Sad\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset28\"},\"text\":\"Arabesque\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset38\"},\"text\":\"Joyous\"},{\"underlined\":true,\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset29\"},\"text\":\"Cupid\"},{\"underlined\":true,\"color\":\"dark_green\",\"text\":\"\"},{\"underlined\":true,\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset39\"},\"text\":\"Stargazing\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1150\"},\"text\":\"Randomized\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset141\"},\"text\":\"Block\"},{\"color\":\"white\",\"text\":\"..\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset142\"},\"text\":\"Item\"}],\"text\":\"\"}{\"extra\":[{\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"},\"text\":\"«\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_blue\",\"text\":\"PoseAdjustment\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Theanglestepsetforadjustingthestandrotationisalsousedfortheposeadjustments.\"}},\"text\":\"Ⓘ\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"black\",\"text\":\"X\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"black\",\"text\":\"Y\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"black\",\"text\":\"Z\"},{\"color\":\"black\",\"text\":\"Head\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset60\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset61\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset62\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset63\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset64\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset65\"},\"text\":\"+\"},{\"color\":\"black\",\"text\":\"Body\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset67\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset66\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset68\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset69\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset70\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset71\"},\"text\":\"+\"},{\"color\":\"black\",\"text\":\"R.Arm\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset72\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset73\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset74\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset75\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset77\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset76\"},\"text\":\"+\"},{\"color\":\"black\",\"text\":\"L.Arm\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset78\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset79\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset81\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset80\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset82\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset83\"},\"text\":\"+\"},{\"color\":\"black\",\"text\":\"R.Leg\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset84\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset85\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset87\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset86\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset89\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset88\"},\"text\":\"+\"},{\"color\":\"black\",\"text\":\"L.Leg\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset90\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset91\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset92\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset93\"},\"text\":\"+\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset94\"},\"text\":\"-\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset95\"},\"text\":\"+\"}],\"text\":\"\"}{\"extra\":[{\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"},\"text\":\"«\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_blue\",\"text\":\"AutoAlignment\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Poseandpositionanarmorstandtoalignaheldblockoritemwithanadjacentblock.\"}},\"text\":\"Ⓘ\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset151\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Alignanarmorstandplacedonasurfacesothatablockheldbyitappearsonthesurface.\"}},\"text\":\"Blockonsurface\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset152\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Alignanarmorstandplacedonasurfacesothatanitemheldbyitappearsuprightonthesurface.\"}},\"text\":\"Itemonsurface\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset153\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Alignanarmorstandplacedonasurfacesothatanon-toolitemheldbyitappearsflatonthesurface.\"}},\"text\":\"Itemflatonsurface\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset154\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Alignanarmorstandplacedonasurfacesothatatoolheldbyitappearsflatonthesurface.\"}},\"text\":\"Toolflatonsurface\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset155\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Alignanarmorstandwithatripwirehookonthewallaboveitsothatatoolheldbyitappearstobehangingup.Alsolocksthearmorstandanddisablesallslotsexceptthemainhand.\"}},\"text\":\"Toolrack\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_blue\",\"text\":\"SwapSlots\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Swapitemsbetweenequipmentslots\"}},\"text\":\"Ⓘ\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"black\",\"text\":\"Mainhand\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset161\"},\"text\":\"<->\"},{\"color\":\"black\",\"text\":\"Offhand\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"Mainhand\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset162\"},\"text\":\"<->\"},{\"color\":\"black\",\"text\":\"Head\"}],\"text\":\"\"}{\"extra\":[{\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"},\"text\":\"«\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_blue\",\"text\":\"PoseMirror&Flip\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Mirroringcopiesthearmorlegposefromlefttorightorviceversa.Flippingreversesthearmorstand'sposeentirely.\"}},\"text\":\"Ⓘ\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"MirrorArms\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset131\"},\"text\":\"L>R\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset132\"},\"text\":\"R>L\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"Legs\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset133\"},\"text\":\"L>R\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset134\"},\"text\":\"R>L\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset135\"},\"text\":\"<-Flip->\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_blue\",\"text\":\"Utilities\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Copyinganarmorstandstoresit'ssettingsandposeinthebookandthesecanthenbepastedintoanotherarmorstand.Thebookmustbetheselectediteminyourmainhandoroffhandforthistowork.Lockinganarmorstandpreventsitfrombeingchangedusingthebookanddisablesinteractionwiththeequipmentslots.Sealinganarmorstand,whichisonlyavailableincreativemode,doesthesameandinadditionmakesitinvulnerable\"}},\"text\":\"Ⓘ\"},{\"color\":\"white\",\"text\":\".\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1004\"},\"text\":\"Copy\"},{\"color\":\"black\",\"text\":\"/\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1005\"},\"text\":\"Paste\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1000\"},\"text\":\"Lock\"},{\"color\":\"black\",\"text\":\"/\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggeras_triggerset1001\"},\"text\":\"Unlock\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/functionarmor_statues:sealing/seal\"},\"text\":\"Seal\"},{\"color\":\"black\",\"text\":\"/\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/functionarmor_statues:sealing/unseal\"},\"text\":\"Unseal\"}],\"text\":\"\"}{\"extra\":[{\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"},\"text\":\"«\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_blue\",\"text\":\"ItemFrames\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Tomakeanitemframeinvisibleitmustbeoneblockinfrontoftheplayerseyesandhaveanitemintheframe.Alternativelyyoucanalsoenter:/triggerif_invisibleTomaketheitemframevisibleremoveitsitem.MustbeincreativetomakeitemframeFixed,orhaveitenabledfromtheadminmenu.\"}},\"text\":\"Ⓘ\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggerif_invisibleset1\"},\"text\":\"Invisibleitemframe\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"FixedItemFrame:\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggerif_invisibleset2\"},\"text\":\"Yes\"},{\"color\":\"black\",\"text\":\"/\"},{\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/triggerif_invisibleset3\"},\"text\":\"No\"},{\"color\":\"white\",\"text\":\"\"}],\"text\":\"\"}{\"extra\":[{\"color\":\"light_purple\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"},\"text\":\"«\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_blue\",\"text\":\"Credits\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"color\":\"yellow\",\"text\":\"Clickonnamesforlinks.\"}},\"text\":\"Ⓘ\"},{\"color\":\"black\",\"text\":\"Originalconceptby\"},{\"color\":\"white\",\"text\":\"\"},{\"bold\":true,\"color\":\"#87325D\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://twitter.com/MCPhssthpok\"},\"text\":\"Phssthpok\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"Additional\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"improvementsby\"},{\"color\":\"white\",\"text\":\"\"},{\"bold\":true,\"color\":\"#E30000\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/c/MinecraftSpace\"},\"text\":\"MSpaceDev\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"Developmentand\"},{\"color\":\"white\",\"text\":\"\"},{\"color\":\"black\",\"text\":\"improvementsby\"},{\"color\":\"white\",\"text\":\"\"},{\"bold\":true,\"color\":\"#0072E5\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://twitter.com/MukiTanuki\"},\"text\":\"MukiTanuki\"}],\"text\":\"\"}",
+  "pages": [
+    {
+      "color": "white",
+      "extra": [
+        {
+          "color": "dark_blue",
+          "text": "Statues V2.9"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Книга меняет основные настройки ближайшей стойки для брони в радиусе трёх блоков. Нажимайте цветные ссылки, чтобы применить настройку."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "bold": true,
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1200"
+          },
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Отменить"
+            }
+          },
+          "text": "⤺"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "bold": true,
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_repeat set 1"
+          },
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Повторить"
+            }
+          },
+          "text": "⟲"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "bold": true,
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1201"
+          },
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Вернуть"
+            }
+          },
+          "text": "⤻"
+        },
+        {
+          "color": "black",
+          "text": "\n  Содержание"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "2"
+          },
+          "text": "\nВид"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "7"
+          },
+          "text": "Ровнять"
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "3"
+          },
+          "text": "\nСдвиг"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "7"
+          },
+          "text": "Слоты"
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "4"
+          },
+          "text": "\nПоворот"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "8"
+          },
+          "text": "Зеркало"
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "4"
+          },
+          "text": "\nУказать"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "8"
+          },
+          "text": "Сервис"
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "5"
+          },
+          "text": "\nПозы"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "9"
+          },
+          "text": "Рамки"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "6"
+          },
+          "text": "Правка поз"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_aqua",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "10"
+          },
+          "text": "Авторы"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 999"
+          },
+          "text": "Проверить цель"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "1"
+          },
+          "text": "«"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Внешний вид"
+        },
+        {
+          "color": "black",
+          "text": "\n\nОснование:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1"
+          },
+          "text": "Да"
+        },
+        {
+          "color": "black",
+          "text": " / "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 2"
+          },
+          "text": "Нет"
+        },
+        {
+          "color": "black",
+          "text": "\nРуки:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 3"
+          },
+          "text": "Да"
+        },
+        {
+          "color": "black",
+          "text": " / "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 4"
+          },
+          "text": "Нет"
+        },
+        {
+          "color": "black",
+          "text": "\nМалая стойка:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 5"
+          },
+          "text": "Да"
+        },
+        {
+          "color": "black",
+          "text": " / "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 6"
+          },
+          "text": "Нет"
+        },
+        {
+          "color": "black",
+          "text": "\nГравитация:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 7"
+          },
+          "text": "Да"
+        },
+        {
+          "color": "black",
+          "text": " / "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 8"
+          },
+          "text": "Нет"
+        },
+        {
+          "color": "black",
+          "text": "\nВидимость:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 9"
+          },
+          "text": "Да"
+        },
+        {
+          "color": "black",
+          "text": " / "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 10"
+          },
+          "text": "Нет"
+        },
+        {
+          "color": "black",
+          "text": "\nПоказ имени:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 11"
+          },
+          "text": "Да"
+        },
+        {
+          "color": "black",
+          "text": " / "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 12"
+          },
+          "text": "Нет"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "1"
+          },
+          "text": "«"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Сдвиг позиции"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Перед сдвигом по Y отключите гравитацию.\n\n«По сетке» перемещает стойку относительно игрока с привязкой к сетке блоков: X — влево/вправо, Z — от себя/к себе.\n\n«Точно» учитывает точное положение игрока: X — влево/вправо, Y — вверх/вниз, Z — от себя/к себе.\n\nШаг — 1/16 блока, как пиксель текстуры."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "black",
+          "text": "\n\nX:  "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 40"
+          },
+          "text": "-8"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 101"
+          },
+          "text": "-3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 102"
+          },
+          "text": "-1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 103"
+          },
+          "text": "+1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 104"
+          },
+          "text": "+3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 43"
+          },
+          "text": "+8"
+        },
+        {
+          "color": "black",
+          "text": "\nY:  "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 44"
+          },
+          "text": "-8"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 105"
+          },
+          "text": "-3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 106"
+          },
+          "text": "-1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 107"
+          },
+          "text": "+1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 108"
+          },
+          "text": "+3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 47"
+          },
+          "text": "+8"
+        },
+        {
+          "color": "black",
+          "text": "\nZ:  "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 48"
+          },
+          "text": "-8"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 109"
+          },
+          "text": "-3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 110"
+          },
+          "text": "-1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 111"
+          },
+          "text": "+1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 112"
+          },
+          "text": "+3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 51"
+          },
+          "text": "+8"
+        },
+        {
+          "color": "black",
+          "text": "\n\n     По сетке  "
+        },
+        {
+          "color": "black",
+          "text": "\nX:  "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1100"
+          },
+          "text": "-8"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1101"
+          },
+          "text": "-3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1102"
+          },
+          "text": "-1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1103"
+          },
+          "text": "+1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1104"
+          },
+          "text": "+3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1105"
+          },
+          "text": "+8"
+        },
+        {
+          "color": "black",
+          "text": "\nZ:  "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1106"
+          },
+          "text": "-8"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1107"
+          },
+          "text": "-3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1108"
+          },
+          "text": "-1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1109"
+          },
+          "text": "+1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1110"
+          },
+          "text": "+3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1111"
+          },
+          "text": "+8"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "black",
+          "text": "\n      Точно  "
+        },
+        {
+          "color": "black",
+          "text": "\nX:  "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1112"
+          },
+          "text": "-8"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1113"
+          },
+          "text": "-3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1114"
+          },
+          "text": "-1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1115"
+          },
+          "text": "+1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1116"
+          },
+          "text": "+3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1117"
+          },
+          "text": "+8"
+        },
+        {
+          "color": "black",
+          "text": "\nY:  "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1118"
+          },
+          "text": "-8"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1119"
+          },
+          "text": "-3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1120"
+          },
+          "text": "-1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1121"
+          },
+          "text": "+1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1122"
+          },
+          "text": "+3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1123"
+          },
+          "text": "+8"
+        },
+        {
+          "color": "black",
+          "text": "\nZ:  "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1124"
+          },
+          "text": "-8"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1125"
+          },
+          "text": "-3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1126"
+          },
+          "text": "-1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1127"
+          },
+          "text": "+1"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1128"
+          },
+          "text": "+3"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1129"
+          },
+          "text": "+8"
+        },
+        {
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "1"
+          },
+          "text": "«"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Угол поворота"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Шаг угла (по умолчанию 15°) применяется и к повороту стойки, и к правке позы.\n\n«К себе» и «От себя» разворачивают стойку лицом к вам или от вас."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 56"
+          },
+          "text": "<<"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 120"
+          },
+          "text": "45°"
+        },
+        {
+          "color": "black",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 121"
+          },
+          "text": "15°"
+        },
+        {
+          "color": "black",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 122"
+          },
+          "text": "5°"
+        },
+        {
+          "color": "black",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 123"
+          },
+          "text": "1°"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 57"
+          },
+          "text": ">>"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 124"
+          },
+          "text": "К себе"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 125"
+          },
+          "text": "От себя"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Указать"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Направляет выбранную часть тела к голове или ногам игрока."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "white",
+          "text": "\n\n"
+        },
+        {
+          "color": "black",
+          "text": "Голова:"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1160"
+          },
+          "text": "Гол."
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1166"
+          },
+          "text": "Ноги"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "black",
+          "text": "Тело:"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1161"
+          },
+          "text": "Гол."
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1167"
+          },
+          "text": "Ноги"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "black",
+          "text": "П.рука:"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1162"
+          },
+          "text": "Гол."
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1168"
+          },
+          "text": "Ноги"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "black",
+          "text": "Л.рука:"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1163"
+          },
+          "text": "Гол."
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1169"
+          },
+          "text": "Ноги"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "black",
+          "text": "П.нога:"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1164"
+          },
+          "text": "Гол."
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1170"
+          },
+          "text": "Ноги"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "black",
+          "text": "Л.нога:"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1165"
+          },
+          "text": "Гол."
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1171"
+          },
+          "text": "Ноги"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "1"
+          },
+          "text": "«"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Готовые позы"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "«Смерть» — лежащая фигура; для ног нужна отдельная стойка.\n\n«Случайно» создаёт уникальную случайную позу.\n\n«Блок» и «Предмет» располагают удерживаемую вещь по сетке мира."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 20"
+          },
+          "text": "\n\nСмирно"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 30"
+          },
+          "text": "Уверенно"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 21"
+          },
+          "text": "\nШаг"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 31"
+          },
+          "text": "Салют"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 22"
+          },
+          "text": "\nБег"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 32"
+          },
+          "text": "Смерть"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 23"
+          },
+          "text": "\nУказать"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 33"
+          },
+          "text": "Рукалицо"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 24"
+          },
+          "text": "\nЗащита"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 34"
+          },
+          "text": "Отдых"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 25"
+          },
+          "text": "\nВыпад"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 35"
+          },
+          "text": "Недоумение"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 26"
+          },
+          "text": "\nПобеда"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 36"
+          },
+          "text": "Учтиво"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 27"
+          },
+          "text": "\nСидя"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 37"
+          },
+          "text": "Грусть"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 28"
+          },
+          "text": "\nАрабеск"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 38"
+          },
+          "text": "Радость"
+        },
+        {
+          "underlined": true,
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 29"
+          },
+          "text": "\nКупидон"
+        },
+        {
+          "underlined": true,
+          "color": "dark_green",
+          "text": " "
+        },
+        {
+          "underlined": true,
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 39"
+          },
+          "text": "К звёздам"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1150"
+          },
+          "text": "Случайно"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 141"
+          },
+          "text": "\nБлок"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 142"
+          },
+          "text": "Предмет"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "1"
+          },
+          "text": "«"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Правка позы"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "При правке позы используется тот же шаг угла, что задан для поворота стойки."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "black",
+          "text": "X"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "black",
+          "text": "Y"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "black",
+          "text": "Z"
+        },
+        {
+          "color": "black",
+          "text": "\nГолова"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 60"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 61"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 62"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 63"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 64"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 65"
+          },
+          "text": "+"
+        },
+        {
+          "color": "black",
+          "text": "\n\nТело"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 67"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 66"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 68"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 69"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 70"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 71"
+          },
+          "text": "+"
+        },
+        {
+          "color": "black",
+          "text": "\n\nП.рука"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 72"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 73"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 74"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 75"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 77"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 76"
+          },
+          "text": "+"
+        },
+        {
+          "color": "black",
+          "text": "\n\nЛ.рука"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 78"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 79"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 81"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 80"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 82"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 83"
+          },
+          "text": "+"
+        },
+        {
+          "color": "black",
+          "text": "\n\nП.нога"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 84"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 85"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 87"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 86"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 89"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 88"
+          },
+          "text": "+"
+        },
+        {
+          "color": "black",
+          "text": "\n\nЛ.нога"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 90"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 91"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 92"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 93"
+          },
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 94"
+          },
+          "text": "-"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 95"
+          },
+          "text": "+"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "1"
+          },
+          "text": "«"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Выравнивание"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Меняет позу и положение стойки, выравнивая предмет или блок в руке относительно соседнего блока."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "white",
+          "text": "\n\n"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 151"
+          },
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Выравнивает стойку так, чтобы блок в её руке лежал на поверхности."
+            }
+          },
+          "text": "Блок сверху"
+        },
+        {
+          "color": "white",
+          "text": "\n\n"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 152"
+          },
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Выравнивает стойку так, чтобы предмет в руке стоял на поверхности."
+            }
+          },
+          "text": "Предмет сверху"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 153"
+          },
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Кладёт предмет в руке стойки плашмя на поверхность. Не для инструментов."
+            }
+          },
+          "text": "Предмет плашмя"
+        },
+        {
+          "color": "white",
+          "text": "\n"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 154"
+          },
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Кладёт инструмент в руке стойки плашмя на поверхность."
+            }
+          },
+          "text": "Инструмент плашмя"
+        },
+        {
+          "color": "white",
+          "text": "\n\n"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 155"
+          },
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Выравнивает стойку с крюком на стене над ней: инструмент в руке выглядит подвешенным.\n\nТакже блокирует стойку и все слоты, кроме основной руки."
+            }
+          },
+          "text": "Подвес"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Слоты"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Меняет предметы местами между слотами снаряжения."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "black",
+          "text": "Осн.р. "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 161"
+          },
+          "text": "<->"
+        },
+        {
+          "color": "black",
+          "text": " Доп.р."
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "black",
+          "text": "Осн.р. "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 162"
+          },
+          "text": "<->"
+        },
+        {
+          "color": "black",
+          "text": " Голова"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "1"
+          },
+          "text": "«"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Отражение позы"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Копирует положение левой руки или ноги на правую и наоборот. Переворот отражает всю позу целиком."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "black",
+          "text": "Руки"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 131"
+          },
+          "text": "Л>П"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 132"
+          },
+          "text": "П>Л"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "black",
+          "text": "Ноги"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 133"
+          },
+          "text": "Л>П"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 134"
+          },
+          "text": "П>Л"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 135"
+          },
+          "text": "<Зеркало>"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Сервис"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Копирование сохраняет настройки и позу стойки в книге. Их можно вставить в другую стойку. Для этого держите книгу в основной или дополнительной руке.\n\nБлокировка запрещает менять стойку книгой и пользоваться слотами снаряжения.\n\nЗащита делает то же самое и добавляет неуязвимость. Доступна только в творческом режиме."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1004"
+          },
+          "text": "Копия"
+        },
+        {
+          "color": "black",
+          "text": " / "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1005"
+          },
+          "text": "Вставка"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1000"
+          },
+          "text": "Закрыть"
+        },
+        {
+          "color": "black",
+          "text": " / "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger as_trigger set 1001"
+          },
+          "text": "Открыть"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/function armor_statues:sealing/seal"
+          },
+          "text": "Защита"
+        },
+        {
+          "color": "black",
+          "text": " / "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/function armor_statues:sealing/unseal"
+          },
+          "text": "Снять"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "1"
+          },
+          "text": "«"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Рамки"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Чтобы скрыть рамку, поместите в неё предмет и встаньте так, чтобы она была в одном блоке перед глазами.\nМожно также ввести:\n/trigger if_invisible\nЧтобы вернуть видимость, выньте предмет.\n\nЗакрепление рамки доступно в творческом режиме либо с разрешения в меню администратора."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "white",
+          "text": "\n\n"
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger if_invisible set 1"
+          },
+          "text": "Скрыть рамку"
+        },
+        {
+          "color": "white",
+          "text": "\n\n"
+        },
+        {
+          "color": "black",
+          "text": "Закрепить рамку:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "dark_green",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger if_invisible set 2"
+          },
+          "text": "Да"
+        },
+        {
+          "color": "black",
+          "text": " / "
+        },
+        {
+          "color": "red",
+          "clickEvent": {
+            "action": "run_command",
+            "value": "/trigger if_invisible set 3"
+          },
+          "text": "Нет"
+        },
+        {
+          "color": "white",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "clickEvent": {
+            "action": "change_page",
+            "value": "1"
+          },
+          "text": "«"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_blue",
+          "text": "Авторы"
+        },
+        {
+          "color": "white",
+          "text": " "
+        },
+        {
+          "color": "dark_purple",
+          "hoverEvent": {
+            "action": "show_text",
+            "contents": {
+              "color": "yellow",
+              "text": "Нажмите имя, чтобы открыть ссылку."
+            }
+          },
+          "text": "Ⓘ"
+        },
+        {
+          "color": "black",
+          "text": "\n\n  Идея:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "bold": true,
+          "color": "#87325D",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://twitter.com/MCPhssthpok"
+          },
+          "text": "Phssthpok"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "black",
+          "text": "Дополнения:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "black",
+          "text": "Улучшения:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "bold": true,
+          "color": "#E30000",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://www.youtube.com/c/MinecraftSpace"
+          },
+          "text": "MSpaceDev"
+        },
+        {
+          "color": "white",
+          "text": "\n\n "
+        },
+        {
+          "color": "black",
+          "text": "Разработка:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "color": "black",
+          "text": "Улучшения:"
+        },
+        {
+          "color": "white",
+          "text": "\n "
+        },
+        {
+          "bold": true,
+          "color": "#0072E5",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://twitter.com/MukiTanuki"
+          },
+          "text": "MukiTanuki"
+        }
+      ],
+      "text": ""
+    }
+  ]
+}

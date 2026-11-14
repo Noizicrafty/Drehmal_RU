@@ -1,0 +1,22 @@
+{
+ "base": {
+  "changed_functions": 1652,
+  "control_differences": [],
+  "stats": {
+   "exact_members": 1724,
+   "datapack_files": 1896,
+   "chat_messages": 428,
+   "book_copies": 4
+  }
+ },
+ "dlc": {
+  "changed_functions": 2771,
+  "control_differences": [],
+  "stats": {
+   "exact_members": 2390,
+   "datapack_files": 3200,
+   "chat_messages": 897,
+   "book_copies": 15
+  }
+ }
+}

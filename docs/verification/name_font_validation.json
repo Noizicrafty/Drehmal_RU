@@ -1,0 +1,6 @@
+{
+ "technical_names_unchanged": true,
+ "sign_font_not_applied_to_mob": true,
+ "sign_font_retained_on_sign": true,
+ "nbt_idempotent": true
+}
